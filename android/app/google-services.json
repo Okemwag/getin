@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972004731215",
+    "project_id": "romino-25d2f",
+    "storage_bucket": "romino-25d2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972004731215:android:6014ac0ea75f5afe633d3a",
+        "android_client_info": {
+          "package_name": "com.example.getin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972004731215-ahmv44ij0m6ktmorofebdgvrn7l69s71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXTLS7yt7Zgg3_aGor2dLe_aGcLpUW01w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972004731215-ahmv44ij0m6ktmorofebdgvrn7l69s71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
