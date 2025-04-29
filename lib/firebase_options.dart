@@ -64,7 +64,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '972004731215',
     projectId: 'romino-25d2f',
     storageBucket: 'romino-25d2f.firebasestorage.app',
-    iosClientId: '972004731215-gookq1c9iliulfj5to9892val8nd5pbb.apps.googleusercontent.com',
+    iosClientId:
+        '972004731215-gookq1c9iliulfj5to9892val8nd5pbb.apps.googleusercontent.com',
     iosBundleId: 'com.example.getin',
   );
 
@@ -74,7 +75,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '972004731215',
     projectId: 'romino-25d2f',
     storageBucket: 'romino-25d2f.firebasestorage.app',
-    iosClientId: '972004731215-gookq1c9iliulfj5to9892val8nd5pbb.apps.googleusercontent.com',
+    iosClientId:
+        '972004731215-gookq1c9iliulfj5to9892val8nd5pbb.apps.googleusercontent.com',
     iosBundleId: 'com.example.getin',
   );
 
